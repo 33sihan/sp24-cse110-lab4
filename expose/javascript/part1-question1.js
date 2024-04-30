@@ -9,7 +9,7 @@ function sumValues(num1, num2, add){
         console.log('values added: ', result);
 
     } else return;
-    
+
     console.log('final result: ', result);
 }
 
